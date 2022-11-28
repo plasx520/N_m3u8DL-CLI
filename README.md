@@ -1,5 +1,5 @@
 ### 浏览器扩展程序crx，一键安装，一键下载。简单快速。自用浏览器插件代码未加密。可以二开。
-
+开源浏览器插件一键下载所有网页视频
 下载地址：[N_m3u8DL-CLI1.0.2浏览器下载插件.zip](https://github.com/nilaoda/N_m3u8DL-CLI/files/8790510/N_m3u8DL-CLI1.0.2.zip)
 由于edge浏览器安全问题无法安装未知来源插件下面是安装教程，其他浏览器可以随意安装
 Microsoft Edge浏览器安装教程 ：https://zhuanlan.zhihu.com/p/502118808
