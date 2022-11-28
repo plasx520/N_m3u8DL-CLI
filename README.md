@@ -1,3 +1,34 @@
+### 浏览器扩展程序crx，一键安装，一键下载。简单快速。自用浏览器插件代码未加密。可以二开。
+
+下载地址：[N_m3u8DL-CLI1.0.2浏览器下载插件.zip](https://github.com/nilaoda/N_m3u8DL-CLI/files/8790510/N_m3u8DL-CLI1.0.2.zip)
+由于edge浏览器安全问题无法安装未知来源插件下面是安装教程，其他浏览器可以随意安装
+Microsoft Edge浏览器安装教程 ：https://zhuanlan.zhihu.com/p/502118808
+首先注册N_m3u8DL-CLI链接协议
+利用 --registerUrlProtocol命令注册m3u8dl://协议的绑定
+注册代码如下
+```
+--registerUrlProtocol          注册m3u8dl链接协议
+--unregisterUrlProtocol     取消注册m3u8dl链接协议
+```
+//注释下面是cmd或者PowerShell终端注册m3u8dl链接协议格式
+```
+./N_m3u8DL-CLI_v3.0.0.exe --registerUrlProtocol
+```
+或者用管理员打开PowerShell复制N_m3u8DL-CLI_v3.0.0.exe地址后面加一个空格再加命令 --registerUrlProtocol然后回车就可以注册了
+![image](https://user-images.githubusercontent.com/59572466/170472306-9417f28a-ad7f-467f-93ba-2e83a0e5e861.png)
+
+### 更新1.0.2
+### 更新：N_m3u8DL-CLI_v3.0.1下载插件
+### 跟着楼主修复调用bug
+### 修复：修复`m3u8dl://`调用bug
+### 加入：下载视频名称，和漂浮下载按钮，免去点右上角插件的繁琐
+### 优化：下载按钮漂浮窗
+![image](https://user-images.githubusercontent.com/59572466/170680407-07cbc7f4-efc3-403e-a5eb-36f1dba316b9.png)
+
+
+
+
+
 ```
 
 ███╗   ██╗        ███╗   ███╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗       ██████╗██╗     ██╗
