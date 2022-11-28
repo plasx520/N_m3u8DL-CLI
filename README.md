@@ -154,8 +154,5 @@ URI解码结果：
 # 用户文档
 https://nilaoda.github.io/N_m3u8DL-CLI/
 
-# 聊聊
-https://discord.gg/SSGwKrjC44
 
-# 赞赏
-![Wow](https://nilaoda.github.io/N_m3u8DL-CLI/source/images/alipay.png)
+
